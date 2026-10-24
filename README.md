@@ -1,4 +1,4 @@
-# Littlewood's mutually touching cylinders: the maximum is seven
+# A computer assisted proof that the maximum number of congruent mutually touching infinite cylinders is seven
 
 Kenta Kitamura, Ivan Matic, Rados Radoicic, and Andreas Spomer
 
