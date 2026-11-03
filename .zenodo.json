@@ -1,0 +1,12 @@
+{
+  "title": "Computer-assisted proof for mutually touching cylinders",
+  "upload_type": "software",
+  "license": "mit",
+  "creators": [
+    { "name": "Kitamura, Kenta", "affiliation": "Intellectual Moonshine" },
+    { "name": "Matić, Ivan", "affiliation": "Baruch College, City University of New York" },
+    { "name": "Radoičić, Radoš", "affiliation": "Baruch College, City University of New York" },
+    { "name": "Spomer, Andreas", "affiliation": "Universität zu Köln" }
+  ],
+  "description": "Verifier for the paper 'Mutually touching cylinders: Littlewood's seven, and at most ten in general'. The program proves that no sign pattern on eleven points has properties (P1) and (P2), and no sign pattern on eight points has properties (P1)-(P4), as defined in the paper."
+}
