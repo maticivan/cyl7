@@ -10,3 +10,4 @@ For the most current version of the paper, please visit
 
 For Lean proof, see:
 <https://github.com/KitaKen1/littlewood-cylinders-lean>
+<https://github.com/michaeliu4/equidistant-lines-verification/tree/main>
